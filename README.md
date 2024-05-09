@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charan-lee
+- 👋 Hi, I’m @malampati-charan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on making simple yet useful sites.
